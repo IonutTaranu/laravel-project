@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "65e2e8c55762845276d7f3cce3093a7b",
+=======
+    "content-hash": "88970a0117c062eed55fa8728fc43833",
+>>>>>>> 81769701ce423ebdbd2a61e9092da94b46abdb49
     "packages": [
         {
             "name": "brick/math",
@@ -2007,6 +2011,7 @@
             "time": "2024-12-08T08:18:47+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "livewire/livewire",
             "version": "v3.6.3",
             "source": {
@@ -2083,6 +2088,8 @@
             "time": "2025-04-12T22:26:52+00:00"
         },
         {
+=======
+>>>>>>> 81769701ce423ebdbd2a61e9092da94b46abdb49
             "name": "monolog/monolog",
             "version": "3.9.0",
             "source": {
@@ -2187,6 +2194,7 @@
         },
         {
             "name": "nesbot/carbon",
+<<<<<<< HEAD
             "version": "3.10.0",
             "source": {
                 "type": "git",
@@ -2197,6 +2205,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/c1397390dd0a7e0f11660f0ae20f753d88c1f3d9",
                 "reference": "c1397390dd0a7e0f11660f0ae20f753d88c1f3d9",
+=======
+            "version": "3.10.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CarbonPHP/carbon.git",
+                "reference": "1fd1935b2d90aef2f093c5e35f7ae1257c448d00"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/1fd1935b2d90aef2f093c5e35f7ae1257c448d00",
+                "reference": "1fd1935b2d90aef2f093c5e35f7ae1257c448d00",
+>>>>>>> 81769701ce423ebdbd2a61e9092da94b46abdb49
                 "shasum": ""
             },
             "require": {
@@ -2288,7 +2308,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2025-06-12T10:24:28+00:00"
+=======
+            "time": "2025-06-21T15:19:35+00:00"
+>>>>>>> 81769701ce423ebdbd2a61e9092da94b46abdb49
         },
         {
             "name": "nette/schema",
@@ -3072,6 +3096,7 @@
         },
         {
             "name": "psy/psysh",
+<<<<<<< HEAD
             "version": "v0.12.8",
             "source": {
                 "type": "git",
@@ -3082,6 +3107,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/bobthecow/psysh/zipball/85057ceedee50c49d4f6ecaff73ee96adb3b3625",
                 "reference": "85057ceedee50c49d4f6ecaff73ee96adb3b3625",
+=======
+            "version": "v0.12.9",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bobthecow/psysh.git",
+                "reference": "1b801844becfe648985372cb4b12ad6840245ace"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/1b801844becfe648985372cb4b12ad6840245ace",
+                "reference": "1b801844becfe648985372cb4b12ad6840245ace",
+>>>>>>> 81769701ce423ebdbd2a61e9092da94b46abdb49
                 "shasum": ""
             },
             "require": {
@@ -3145,9 +3182,15 @@
             ],
             "support": {
                 "issues": "https://github.com/bobthecow/psysh/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/bobthecow/psysh/tree/v0.12.8"
             },
             "time": "2025-03-16T03:05:19+00:00"
+=======
+                "source": "https://github.com/bobthecow/psysh/tree/v0.12.9"
+            },
+            "time": "2025-06-23T02:35:06+00:00"
+>>>>>>> 81769701ce423ebdbd2a61e9092da94b46abdb49
         },
         {
             "name": "ralouphie/getallheaders",
